@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Ultra",
+      "price": "7520.89"
+    },
+    {
+      "name": "Notebook Lenovo",
+      "price": "3567.89",
+      "id": 4
+    },
+    {
+      "name": "Lápis Preto Básico",
+      "price": "1.50",
+      "id": 5
+    },
+    {
+      "name": "Placa Arduino Uno com Cabo Usb",
+      "price": "56.57",
+      "id": 6
+    }
+  ]
+}

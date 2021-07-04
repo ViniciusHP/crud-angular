@@ -1,0 +1,16 @@
+{
+  "name": "crud",
+  "description": "## Descrição ---------- Este projeto foi construído no curso [Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial) da Cod3r. Nele é feito a leitura, cadastro, edição e exclusão de produtos.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm start --prefix frontend\" \"npm start --prefix backend\""
+  },
+  "dependencies": {
+    "concurrently": "^6.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
